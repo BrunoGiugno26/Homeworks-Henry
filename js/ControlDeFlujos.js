@@ -4,7 +4,7 @@
 //    } else if (destino ==="Argentina"){
 //        console.log("Gire a la DERECHA");
 //    } else if (destino === "Bolivia"){
-//        console.log("no viajar que es un pais pobre y no tiene mar y son todos bolitas");
+//        console.log("no es el destino");
 //    } else{
 //        console.log("No es el camino hacia destino");
 //    }
